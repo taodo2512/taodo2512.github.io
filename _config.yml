@@ -1,33 +1,52 @@
 title: I'm Táo Đỏ
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-permalink: ':title/'
+description: A sleepy pig
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+url: "taodo2512.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Author Settings
-author: Táo Đỏ # add your name
-author-img: tao_do_1.jpg # add your photo
-about-author: I am a sleepy pig
-social-twitter: # add your Twitter handle
-social-facebook: "https://www.facebook.com/profile.php?id=61550288743410" # add your Facebook handle
-social-linkedin: "https://www.linkedin.com/in/maingocnghiemthi/" # add your Linkedin handle
-social-email: "nguyenmaidan2512@gmail.com" # add your Email address
+# Author
+author-name:    Táo Đỏ
+author-image:   tao_do_1.jpg
+author-job:     Media Freelancer
+author-email:   nguyenmaidan2512@gmail.com
+author-twitter: maingocchamhoc # Add your twitter account
+about-author:   |
+        .......................... a dreamy girl 🍎 ........................
+        ........................ enjoys studying 📚 ......................
+        ..................... capturing moments 📸 .................. 
+        ........... and writing miscellaneous things 📝 .....
 
-# Tracker
-analytics: # Google Analytics
+# Social settings
+social-twitter:   maingocchamhoc
+social-facebook:  profile.php?id=61550288743410    
+social-pinterest: Taodo2512
+social-instagram: taodo_2512
+social-youtube:   playlist?list=PLxkjb2HuBoqVXBOTyHpT42Od5tiQn3Gsh
+social-linkedin:  maingocnghiemthi
 
-# Build Settings
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1
+
+# Comment Section (Disqus)
+disqus-identifier: taodo2512 # Add your shortname for Disqus Comment. For example mr-brown
+
+# Build settings
 markdown: kramdown
+permalink: /:year/:month/:day/:title/
 plugins:
-  - jekyll-sitemap
   - jekyll-paginate
-  - jemoji
 
-paginate: 8
-paginate_path: "/page/:num"
+paginate: 7
+paginate_path: "/page/:num/"
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
