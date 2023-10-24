@@ -81,4 +81,4 @@ Mỗi sự cho đi của bạn chính là niềm hạnh phúc của một ngư�
 
 Kì này mình ấp ủ khá nhiều dự định và đang trong quá trình thực hiện. Hy vọng sẽ thành công mĩ mãn. Cảm ơn vì đã đọc đến đây nha.
 
-[ CUỐI CÙNG XIN BÀY TỎ LÒNG ĂN NĂN HỐI CẢI, CHÂN THÀNH XIN LỖI ĐẾN NHỮNG TRÁI TIM BÉ NHỎ YẾU ỚT ĐÃ BỊ MÌNH LÀM TỔN THƯƠNG TRONG THỜI GIAN QUA. KHÔNG NGỜ SỰ BÔNG ĐÙA VÔ TÂM, THỜ Ơ HỮNG HỜ CỦA MÌNH ĐÃ LÀM TAN NÁT TRÁI TYM CÁC BẠN. MONG CÁC BẠN ĐỪNG GIẬN MÌNH NHIỀU NỮA NHÉ. CHÚC MỌI NGƯỜI LUÔN VUI VÀ HỌC TỐT. LOVED ]
+### [ CUỐI CÙNG XIN BÀY TỎ LÒNG ĂN NĂN HỐI CẢI, CHÂN THÀNH XIN LỖI ĐẾN NHỮNG TRÁI TIM BÉ NHỎ YẾU ỚT ĐÃ BỊ MÌNH LÀM TỔN THƯƠNG TRONG THỜI GIAN QUA. KHÔNG NGỜ SỰ BÔNG ĐÙA VÔ TÂM, THỜ Ơ HỮNG HỜ CỦA MÌNH ĐÃ LÀM TAN NÁT TRÁI TYM CÁC BẠN. MONG CÁC BẠN ĐỪNG GIẬN MÌNH NHIỀU NỮA NHÉ. CHÚC MỌI NGƯỜI LUÔN VUI VÀ HỌC TỐT. LOVED ]
