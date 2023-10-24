@@ -5,7 +5,7 @@ date: 2023-10-24
 image:
 tags: [life, selfhelp]
 categories: life
----
+--- 
 
 Đây là list những việc mình đã và đang làm để có một cuộc sống healthier. Đầu tư cho bản thân là khoản đầu thư sinh lợi nhiều nhất thế nên mình luôn cố gắng để become the best version of myself, để có  cmộtộc sống tốt đẹp, hạnh phúc hơn. Bài sẽ dài một chút nhưng mình đã gõ rất tâm huyết nên mọi người hãy bớt chút thời gian đọc nhé.
 
