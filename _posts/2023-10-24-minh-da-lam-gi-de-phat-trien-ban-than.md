@@ -9,7 +9,7 @@ categories: life
 
 Đây là list những việc mình đã và đang làm để có một cuộc sống healthier. Đầu tư cho bản thân là khoản đầu thư sinh lợi nhiều nhất thế nên mình luôn cố gắng để become the best version of myself, để có  cmộtộc sống tốt đẹp, hạnh phúc hơn. Bài sẽ dài một chút nhưng mình đã gõ rất tâm huyết nên mọi người hãy bớt chút thời gian đọc nhé.
 
-## 1. UỐNG MỘT CỐC MẬT ONG PHA NƯỚC ẤM HOẶC MỘT CỐC SỮA VÀO BUỔI SÁNG 
+## 1. UỐNG MỘT CỐC MẬT ONG PHA NƯỚC ẤM HOẶC MỘT CỐC SỮA VÀO BUỔI SÁNG
 Người ta vẫn hay nói đại ý: ăn sáng như một hoàng đế, ăn trưa như một thường dân và ăn tối như một kẻ ăn xin là để nói đến tầm quan trọng của bữa ăn sáng, bởi bữa sáng cung cấp năng lượng hoạt động cho cả một ngày dài. Sau khi thức dậy mình thường uống một cốc nước ấm để giải độc cho cơ thể, sau đó uống nước mật ong (tốt cho sức khỏe và làm sáng mịn da), còn sữa thì mình chọn milo vì nó giúp tăng chiều cao (mình tin là đến 22 tuổi chiều cao con người mới ngưng phát triển), đồng thời sữa milo chứa rất nhiều đường (cung cấp sức kéo và năng lượng cho cơ thể) nên sẽ phù hợp nếu mình không kịp thời gian ăn sáng.
 
 ## 2. TẬP YOGA/THỂ DỤC
