@@ -7,8 +7,6 @@ tags: [life, selfhelp]
 categories: life
 ---
 
-# MÌNH ĐÃ LÀM GÌ ĐỂ PHÁT TRIỂN BẢN THÂN
-
 Đây là list những việc mình đã và đang làm để có một cuộc sống healthier. Đầu tư cho bản thân là khoản đầu thư sinh lợi nhiều nhất thế nên mình luôn cố gắng để become the best version of myself, để có  cmộtộc sống tốt đẹp, hạnh phúc hơn. Bài sẽ dài một chút nhưng mình đã gõ rất tâm huyết nên mọi người hãy bớt chút thời gian đọc nhé.
 
 ## 1. UỐNG MỘT CỐC MẬT ONG PHA NƯỚC ẤM HOẶC MỘT CỐC SỮA VÀO BUỔI SÁNG
